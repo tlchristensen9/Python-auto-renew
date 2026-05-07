@@ -1,4 +1,4 @@
-name: Auto-Renew PythonAnywhere
+name: Auto-Renew PythonAnywhere 
 
 on:
   schedule:
